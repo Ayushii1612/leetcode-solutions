@@ -16,11 +16,6 @@ This repository also helps me track my progress, revisit previously solved probl
 
 🎯 Goal: Strengthen problem-solving skills and prepare for technical interviews
 
-# 🌟 Connect with Me
-GitHub: https://github.com/Ayushii1612
-
-LinkedIn: https://www.linkedin.com/in/aayushiupadhyay
-
 # 
 If you find this repository helpful, feel free to star it!
 
