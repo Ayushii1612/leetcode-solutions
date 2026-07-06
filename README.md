@@ -21,18 +21,3 @@ If you find this repository helpful, feel free to star it!
 
 Happy Coding!!
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Design
-|  |
-| ------- |
-| [1603-design-parking-system](https://github.com/Ayushii1612/leetcode-solutions/tree/master/1603-design-parking-system) |
-## Simulation
-|  |
-| ------- |
-| [1603-design-parking-system](https://github.com/Ayushii1612/leetcode-solutions/tree/master/1603-design-parking-system) |
-## Counting
-|  |
-| ------- |
-| [1603-design-parking-system](https://github.com/Ayushii1612/leetcode-solutions/tree/master/1603-design-parking-system) |
-<!---LeetCode Topics End-->
