@@ -29,8 +29,18 @@ Happy Coding!!
 | ------- |
 | [0414-third-maximum-number](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0561-array-partition) |
 ## Sorting
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0561-array-partition) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
