@@ -27,5 +27,10 @@ Happy Coding!!
 ## Array
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
