@@ -54,4 +54,8 @@ Happy Coding!!
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0724-find-pivot-index) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
