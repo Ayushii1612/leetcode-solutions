@@ -34,6 +34,7 @@ Happy Coding!!
 | [0724-find-pivot-index](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1816-truncate-sentence](https://github.com/Ayushii1612/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ayushii1612/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Ayushii1612/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -64,4 +65,9 @@ Happy Coding!!
 | [1108-defanging-an-ip-address](https://github.com/Ayushii1612/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1816-truncate-sentence](https://github.com/Ayushii1612/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ayushii1612/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Ayushii1612/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Ayushii1612/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
