@@ -32,6 +32,7 @@ Happy Coding!!
 | [0561-array-partition](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [1816-truncate-sentence](https://github.com/Ayushii1612/leetcode-solutions/tree/master/1816-truncate-sentence) |
 ## Sorting
 |  |
 | ------- |
@@ -60,4 +61,5 @@ Happy Coding!!
 | [0058-length-of-last-word](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0709-to-lower-case](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Ayushii1612/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
+| [1816-truncate-sentence](https://github.com/Ayushii1612/leetcode-solutions/tree/master/1816-truncate-sentence) |
 <!---LeetCode Topics End-->
