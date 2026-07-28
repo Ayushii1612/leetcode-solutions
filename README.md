@@ -32,6 +32,7 @@ Happy Coding!!
 | [0561-array-partition](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [1051-height-checker](https://github.com/Ayushii1612/leetcode-solutions/tree/master/1051-height-checker) |
 | [1816-truncate-sentence](https://github.com/Ayushii1612/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ayushii1612/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ayushii1612/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -42,6 +43,7 @@ Happy Coding!!
 | [0414-third-maximum-number](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1051-height-checker](https://github.com/Ayushii1612/leetcode-solutions/tree/master/1051-height-checker) |
 ## Greedy
 |  |
 | ------- |
@@ -50,6 +52,7 @@ Happy Coding!!
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/Ayushii1612/leetcode-solutions/tree/master/1051-height-checker) |
 ## Math
 |  |
 | ------- |
