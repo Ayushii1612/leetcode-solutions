@@ -28,6 +28,7 @@ Happy Coding!!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0414-third-maximum-number](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0561-array-partition) |
@@ -99,4 +100,8 @@ Happy Coding!!
 | [1661-average-time-of-process-per-machine](https://github.com/Ayushii1612/leetcode-solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Ayushii1612/leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ayushii1612/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
