@@ -27,6 +27,7 @@ Happy Coding!!
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0414-third-maximum-number](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0561-array-partition) |
@@ -81,6 +82,7 @@ Happy Coding!!
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ayushii1612/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Linked List
