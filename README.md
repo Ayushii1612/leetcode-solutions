@@ -85,12 +85,14 @@ Happy Coding!!
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ayushii1612/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ayushii1612/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
