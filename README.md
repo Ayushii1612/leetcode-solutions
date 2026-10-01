@@ -87,6 +87,7 @@ Happy Coding!!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ayushii1612/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Linked List
@@ -95,6 +96,7 @@ Happy Coding!!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ayushii1612/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -117,4 +119,9 @@ Happy Coding!!
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
