@@ -87,6 +87,7 @@ Happy Coding!!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ayushii1612/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -95,6 +96,7 @@ Happy Coding!!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -124,4 +126,12 @@ Happy Coding!!
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
