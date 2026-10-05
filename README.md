@@ -100,6 +100,7 @@ Happy Coding!!
 | [0206-reverse-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ayushii1612/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Database
@@ -147,4 +148,8 @@ Happy Coding!!
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
