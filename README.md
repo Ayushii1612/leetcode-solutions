@@ -94,6 +94,7 @@ Happy Coding!!
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ayushii1612/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Linked List
 |  |
@@ -114,6 +115,7 @@ Happy Coding!!
 | [0707-design-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ayushii1612/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ayushii1612/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Database
 |  |
 | ------- |
