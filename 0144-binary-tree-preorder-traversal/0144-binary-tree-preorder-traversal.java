@@ -22,18 +22,18 @@ class Solution {
             return out;
         }
 
-        stack.add(root);
+        stack.add(root);  //start with the root
 
         while(!stack.isEmpty()){
-            TreeNode node = stack.pop();
-            out.add(node.val);
+            TreeNode node = stack.pop();  //take the top node
+            out.add(node.val);  //this is Root
 
             if(node.right != null){
-                stack.add(node.right);
+                stack.add(node.right);  //push right first
             }
 
             if(node.left != null){
-                stack.add(node.left);
+                stack.add(node.left);  //push left last
             }
         }
 
