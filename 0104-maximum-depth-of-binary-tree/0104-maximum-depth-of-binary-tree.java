@@ -14,20 +14,32 @@
  * }
  */
 class Solution {
-    private int answer;
-
-    public void maxDepthHelper(TreeNode node, int depth){
-        if(node == null){
-            return;
+    public int maxDepth(TreeNode root) {
+        if(root == null){
+            return 0;
         }
 
-        answer = Math.max(answer, depth);
-        maxDepthHelper(node.left, depth + 1);
-        maxDepthHelper(node.right, depth + 1);
-    }
-    public int maxDepth(TreeNode root) {
-        answer = 0;
-        maxDepthHelper(root, 1);
-        return answer;
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.add(root);
+        int depth = 0;
+
+        while(!queue.isEmpty()){
+            int size = queue.size();         // nodes in this level
+
+            for(int i = 0; i < size; i = i + 1){
+                TreeNode node = queue.remove();
+
+                if(node.left != null){
+                    queue.add(node.left);
+                }
+                if(node.right != null){
+                    queue.add(node.right);
+                }
+            }
+
+            depth = depth + 1;               // one full level finished
+        }
+
+        return depth;
     }
 }
