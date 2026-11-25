@@ -36,6 +36,7 @@ Happy Coding!!
 | [0485-max-consecutive-ones](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1051-height-checker](https://github.com/Ayushii1612/leetcode-solutions/tree/master/1051-height-checker) |
 | [1816-truncate-sentence](https://github.com/Ayushii1612/leetcode-solutions/tree/master/1816-truncate-sentence) |
@@ -240,6 +241,7 @@ Happy Coding!!
 | [0450-delete-node-in-a-bst](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0704-binary-search](https://github.com/Ayushii1612/leetcode-solutions/tree/master/0704-binary-search) |
 ## Binary Lifting
 |  |
 | ------- |
